@@ -11,7 +11,6 @@
 - [Tools and Technologies Used](#tools-and-technologies-used)
 - [Future Work](#future-work)
 - [Principal Visualizations](#principal-visualizations)
-- [Data Visualization Interfaces](#data-visualization-interfaces)
 - [Terminologies Used in Data](#terminologies-used-in-data)
 - [Conclusion](#conclusion)
 
